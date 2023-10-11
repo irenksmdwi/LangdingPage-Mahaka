@@ -2,7 +2,7 @@
 <h3 align="center">Landing Page Promosi Mahaka Mini Market & Home Supplies</h3>
 
 
-- 📝 Dibangun Menggunakan: [Awesome, AOS, CSS, HTML, Carousel](Awesome, AOS, CSS, HTML, Carousel)
+- 📝 Dibangun Menggunakan: [Awesome, AOS, CSS, HTML, Carousel]
 
 - 📫 How to reach me **irenakusumadewi9@gmail.com**
 
