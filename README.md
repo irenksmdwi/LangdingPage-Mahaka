@@ -1,7 +1,6 @@
 <h1 align="center">💻 Landing Page Mahaka</h1>
 <h3 align="center">Landing Page Promosi Mahaka Mini Market & Home Supplies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irenksmdwi&label=Profile%20views&color=0e75b6&style=flat" alt="irenksmdwi" /> </p>
 
 - 📝 Dibangun Menggunakan: [Awesome, AOS, CSS, HTML, Carousel](Awesome, AOS, CSS, HTML, Carousel)
 
