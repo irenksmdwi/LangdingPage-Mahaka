@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **irenakusumadewi9@gmail.com**
 
-- Link Google Form [link google spreadsheet: https://bit.ly/AskMahaka](link google spreadsheet: https://bit.ly/AskMahaka)
+- Link Google Form Hasil Input Landing Page **https://bit.ly/AskMahaka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
